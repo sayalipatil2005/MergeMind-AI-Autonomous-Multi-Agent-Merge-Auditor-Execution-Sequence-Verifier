@@ -1494,3 +1494,24 @@ Full GitHub Integration 🧪
 ### Understand the merge.
 
 > **Don't just merge code. Understand what the merge does.**
+> ---
+
+## My Contributions
+
+I contributed to this academic team project through:
+
+- **Frontend/UI:** Contributed to the user interface and presentation of the system.
+- **Testing and Debugging:** Assisted in testing the application and identifying and resolving issues.
+- **Documentation:** Contributed to project documentation and technical explanations.
+- **Project Presentation:** Worked on presenting the project's objectives, architecture and implementation.
+
+## Project Information
+
+- **Project:** MergeMind AI
+- **Domain:** Artificial Intelligence and Software Engineering
+- **Technologies:** Python, FastAPI, Streamlit
+- **Project Type:** Academic Team Project
+
+This repository is my fork of the original team project. All original project work and contributions remain credited to the team.
+
+**Original Repository:** [Autonomous Multi-Agent Merge Auditor & Execution Sequence Verifier](https://github.com/SaaranshJohri/Autonomous-Multi-Agent-Merge-Auditor-Execution-Sequence-Verifier)
